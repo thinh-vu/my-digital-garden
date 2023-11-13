@@ -1,5 +1,7 @@
 # Starter for the Digital Garden theme
 
+Tham khảo thêm repo này phần hướng dẫn: https://github.com/phartenfeller/gatsby-philipps-foam-theme
+
 Quickly get started using the Gatsby garden theme! This starter creates a new Gatsby site that is preconfigured to work with the [Gatsby garden theme](https://www.npmjs.com/package/gatsby-theme-garden).
 
 ## 🚀 Quick start
